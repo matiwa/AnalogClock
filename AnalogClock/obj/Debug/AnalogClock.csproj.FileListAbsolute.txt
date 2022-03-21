@@ -1,0 +1,9 @@
+C:\Users\matiwa\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csprojAssemblyReference.cache
+C:\Users\matiwa\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Form1.resources
+C:\Users\matiwa\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Properties.Resources.resources
+C:\Users\matiwa\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.GenerateResource.cache
+C:\Users\matiwa\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.CoreCompileInputs.cache
+C:\Users\matiwa\source\repos\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe
+C:\Users\matiwa\source\repos\AnalogClock\AnalogClock\bin\Debug\AnalogClock.pdb
+C:\Users\matiwa\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.exe
+C:\Users\matiwa\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.pdb
